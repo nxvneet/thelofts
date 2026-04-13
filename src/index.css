@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #111111;
+  --color-secondary: #EAE6E2;
+  --color-background-light: #F7F5F2;
+  --color-surface: #FFFFFF;
+  --color-accent: #C6A97A;
+  --color-text-primary: #1A1A1A;
+  --color-text-muted: #6B6B6B;
+  --color-border-color: #E3E0DC;
+  --color-dark-surface: #0C0C0C;
+
+  --font-heading: 'Playfair Display', serif;
+  --font-body: 'Plus Jakarta Sans', sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-[var(--color-background-light)] text-[var(--color-text-primary)] font-body antialiased;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-heading tracking-tight text-primary;
+  }
+
+  h1 {
+    font-size: clamp(3rem, 6vw, 6rem);
+    font-weight: 500;
+  }
+
+  h2 {
+    font-size: clamp(2rem, 4vw, 3.5rem);
+    font-weight: 500;
+  }
+
+  h3 {
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    font-weight: 500;
+  }
+}

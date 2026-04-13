@@ -1,0 +1,65 @@
+
+--- 3-bhk-loft ---
+Backgrounds (Hero): []
+Swiper Images (Visual Symphony): https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-Lofts-WT-11.jpg
+Layout/Floor Plans: [
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/GROUND-FLOOR-scaled-reqgk40hiok730xm71mfrt6u2ht3mc9ovho3wiiexe.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/FIRST-FLOOR-scaled-reqgk32nbuiwreyzcj7t7bfdh3xqen5yjd0mf8jt3m.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/SECOND-FLOOR-scaled-reqgk4ybpilhemw91k12cayanvogu1df7mbldsh0r6.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/THIRD-FLOOR-scaled-reqgk40hiok730xm71mfrt6u2ht3mc9ovho3wiiexe.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/FOURTH-FLOOR-scaled-reqgk40hiok730xm71mfrt6u2ht3mc9ovho3wiiexe.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/FIFTH-FLOOR-scaled-reqgk32nbuiwreyzcj7t7bfdh3xqen5yjd0mf8jt3m.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/SIXTH-FLOOR-scaled-reqgk4ybpilhemw91k12cayanvogu1df7mbldsh0r6.jpg'
+]
+
+--- 2-bhk-loft ---
+Backgrounds (Hero): []
+Swiper Images (Visual Symphony): https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-Lofts-WT-11.jpg
+Layout/Floor Plans: [
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/GROUND-FLOOR-scaled-reqgk40hiok730xm71mfrt6u2ht3mc9ovho3wiiexe.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/FIRST-FLOOR-scaled-reqgk32nbuiwreyzcj7t7bfdh3xqen5yjd0mf8jt3m.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/SECOND-FLOOR-scaled-reqgk4ybpilhemw91k12cayanvogu1df7mbldsh0r6.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/THIRD-FLOOR-scaled-reqgk40hiok730xm71mfrt6u2ht3mc9ovho3wiiexe.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/FOURTH-FLOOR-scaled-reqgk40hiok730xm71mfrt6u2ht3mc9ovho3wiiexe.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/FIFTH-FLOOR-scaled-reqgk32nbuiwreyzcj7t7bfdh3xqen5yjd0mf8jt3m.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/SIXTH-FLOOR-scaled-reqgk4ybpilhemw91k12cayanvogu1df7mbldsh0r6.jpg'
+]
+
+--- 2-bhk ---
+Backgrounds (Hero): []
+Swiper Images (Visual Symphony): https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-Lofts-WT-11.jpg
+Layout/Floor Plans: [
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/GROUND-FLOOR-scaled-reqgk40hiok730xm71mfrt6u2ht3mc9ovho3wiiexe.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/FIRST-FLOOR-scaled-reqgk32nbuiwreyzcj7t7bfdh3xqen5yjd0mf8jt3m.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/SECOND-FLOOR-scaled-reqgk4ybpilhemw91k12cayanvogu1df7mbldsh0r6.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/THIRD-FLOOR-scaled-reqgk40hiok730xm71mfrt6u2ht3mc9ovho3wiiexe.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/FOURTH-FLOOR-scaled-reqgk40hiok730xm71mfrt6u2ht3mc9ovho3wiiexe.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/FIFTH-FLOOR-scaled-reqgk32nbuiwreyzcj7t7bfdh3xqen5yjd0mf8jt3m.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/SIXTH-FLOOR-scaled-reqgk4ybpilhemw91k12cayanvogu1df7mbldsh0r6.jpg'
+]
+
+--- 1-bhk ---
+Backgrounds (Hero): []
+Swiper Images (Visual Symphony): https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-Lofts-WT-11.jpg
+Layout/Floor Plans: [
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/GROUND-FLOOR-scaled-reqgk40hiok730xm71mfrt6u2ht3mc9ovho3wiiexe.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/FIRST-FLOOR-scaled-reqgk32nbuiwreyzcj7t7bfdh3xqen5yjd0mf8jt3m.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/SECOND-FLOOR-scaled-reqgk4ybpilhemw91k12cayanvogu1df7mbldsh0r6.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/THIRD-FLOOR-scaled-reqgk40hiok730xm71mfrt6u2ht3mc9ovho3wiiexe.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/FOURTH-FLOOR-scaled-reqgk40hiok730xm71mfrt6u2ht3mc9ovho3wiiexe.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/FIFTH-FLOOR-scaled-reqgk32nbuiwreyzcj7t7bfdh3xqen5yjd0mf8jt3m.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/SIXTH-FLOOR-scaled-reqgk4ybpilhemw91k12cayanvogu1df7mbldsh0r6.jpg'
+]
+
+--- studio ---
+Backgrounds (Hero): []
+Swiper Images (Visual Symphony): https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-Lofts-WT-11.jpg
+Layout/Floor Plans: [
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/GROUND-FLOOR-scaled-reqgk40hiok730xm71mfrt6u2ht3mc9ovho3wiiexe.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/FIRST-FLOOR-scaled-reqgk32nbuiwreyzcj7t7bfdh3xqen5yjd0mf8jt3m.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/SECOND-FLOOR-scaled-reqgk4ybpilhemw91k12cayanvogu1df7mbldsh0r6.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/THIRD-FLOOR-scaled-reqgk40hiok730xm71mfrt6u2ht3mc9ovho3wiiexe.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/FOURTH-FLOOR-scaled-reqgk40hiok730xm71mfrt6u2ht3mc9ovho3wiiexe.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/FIFTH-FLOOR-scaled-reqgk32nbuiwreyzcj7t7bfdh3xqen5yjd0mf8jt3m.jpg',
+  'https://ariaholding.com/thelofts/wp-content/uploads/elementor/thumbs/SIXTH-FLOOR-scaled-reqgk4ybpilhemw91k12cayanvogu1df7mbldsh0r6.jpg'
+]
