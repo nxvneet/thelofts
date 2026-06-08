@@ -23,11 +23,11 @@ export function Residences() {
 
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     {[
-                        { title: "3 bedroom Loft Luxury residences", size: "210 SQM", img: "https://ariaholding.com/thelofts/wp-content/uploads/2025/05/5.webp", slug: "3-bhk-loft" },
-                        { title: "2 bedroom Loft Luxury residences", size: "140 SQM", img: "https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-lofts-1.jpg", slug: "2-bhk-loft" },
-                        { title: "2 bedroom Luxury residences", size: "120 SQM", img: "https://ariaholding.com/thelofts/wp-content/uploads/2025/08/21-BHK-residences-7.jpg", slug: "2-bhk" },
-                        { title: "1 bedroom Luxury residences", size: "95 SQM", img: "https://ariaholding.com/thelofts/wp-content/uploads/2025/05/2.webp", slug: "1-bhk" },
-                        { title: "Luxury Studio Apartments", size: "65 SQM", img: "https://ariaholding.com/thelofts/wp-content/uploads/2025/05/1.webp", slug: "studio" }
+                        { title: "3 bedroom Loft Luxury residences", size: "210 SQM", img: "/unit_3bed_loft_1773238111737.png", slug: "3-bhk-loft" },
+                        { title: "2 bedroom Loft Luxury residences", size: "140 SQM", img: "/unit_2bed_loft_lux_1773238128147.png", slug: "2-bhk-loft" },
+                        { title: "2 bedroom Luxury residences", size: "120 SQM", img: "/unit_2bed_loft_1773238147265.png", slug: "2-bhk" },
+                        { title: "1 bedroom Luxury residences", size: "95 SQM", img: "/unit_1bed_1773238177449.png", slug: "1-bhk" },
+                        { title: "Luxury Studio Apartments", size: "65 SQM", img: "/unit_studio_1773238192262.png", slug: "studio" }
                     ].map((item, i) => (
                         <div key={i} className="residence-card bg-white rounded-[10px] overflow-hidden shadow-sm group">
                             <div className="h-[300px] overflow-hidden relative">

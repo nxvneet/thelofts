@@ -10,28 +10,28 @@ const units = [
     {
         title: "3 bedroom Loft Luxury residences",
         desc: "THIS CONTEMPORARY SPACE BLENDS MODERN ARCHITECTURE WITH NATURAL LIGHT. DESIGNED FOR CITY LIVING, IT FEATURES PREMIUM MATERIALS AND THOUGHTFUL LAYOUT.",
-        image: "https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-lofts-1.jpg",
+        image: "/unit_3bed_loft_1773238111737.png",
         location: "LOCATION: THE PEARL-QATAR",
         slug: "3-bhk-loft"
     },
     {
         title: "2 bedroom Loft Luxury residences",
         desc: "CHIC CONTEMPORARY DESIGN MARRYING WARM TONES WITH MARBLE ACCENTS, CREATING A SEAMLESS AND EXPANSIVE AESTHETIC FOR SOPHISTICATED LIVING.",
-        image: "https://ariaholding.com/thelofts/wp-content/uploads/2025/08/21-BHK-residences-7.jpg",
+        image: "/unit_2bed_loft_lux_1773238128147.png",
         location: "LOCATION: THE PEARL-QATAR",
         slug: "2-bhk-loft"
     },
     {
         title: "2 bedroom Luxury residences",
         desc: "SPACIOUS LAYOUT WITH SOPHISTICATED FINISHES. THE PERFECT BALANCE OF COMFORT AND LUXURY, OFFERING STUNNING VIEWS AND WORLD-CLASS AMENITIES.",
-        image: "https://ariaholding.com/thelofts/wp-content/uploads/2025/05/3.webp",
+        image: "/unit_2bed_loft_1773238147265.png",
         location: "LOCATION: THE PEARL-QATAR",
         slug: "2-bhk"
     },
     {
         title: "1 bedroom Luxury residences",
         desc: "ELEGANT AND COZY. FEATURING HIGH-END FINISHES, WOODEN FLOORING, AND A HIGHLY EFFICIENT ARCHITECTURAL LAYOUT MAXIMIZING EVERY SQUARE METER.",
-        image: "https://ariaholding.com/thelofts/wp-content/uploads/2025/07/5_1.jpg",
+        image: "/unit_1bed_1773238177449.png",
         location: "LOCATION: THE PEARL-QATAR",
         slug: "1-bhk"
     },

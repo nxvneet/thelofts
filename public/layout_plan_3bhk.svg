@@ -1,0 +1,84 @@
+<svg viewBox="0 0 800 600" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <!-- Clean background for blueprint -->
+  <rect width="100%" height="100%" fill="#FAF9F6"/>
+  
+  <g transform="translate(40, 40)">
+    <!-- Title block -->
+    <text x="0" y="30" font-family="'Inter', sans-serif" font-size="22" font-weight="600" fill="#1A1A1A" letter-spacing="2">3 BEDROOM LOFT RESIDENCE</text>
+    <text x="0" y="50" font-family="'Inter', sans-serif" font-size="10" font-weight="500" fill="#9C8974" letter-spacing="1.5">FLOOR PLAN &amp; SPACE LAYOUT · 403 SQM.</text>
+
+    <!-- Room dimensions / labels -->
+    <g transform="translate(20, 80)">
+      <!-- Main Outer wall -->
+      <rect x="50" y="40" width="600" height="380" fill="none" stroke="#1A1A1A" stroke-width="3.5"/>
+      <rect x="52" y="42" width="596" height="376" fill="none" stroke="#FAF9F6" stroke-width="1.5"/>
+      
+      <!-- Inner walls dividing rooms -->
+      <!-- Left side: Master Suite -->
+      <line x1="230" y1="40" x2="230" y2="420" stroke="#1A1A1A" stroke-width="2.5"/>
+      <!-- Dividers in Master Suite -->
+      <line x1="50" y1="230" x2="230" y2="230" stroke="#1A1A1A" stroke-width="2"/>
+      
+      <!-- Center: Living & Dining & Kitchen -->
+      <line x1="470" y1="40" x2="470" y2="420" stroke="#1A1A1A" stroke-width="2.5"/>
+      <line x1="230" y1="200" x2="470" y2="200" stroke="#1A1A1A" stroke-width="2"/>
+      
+      <!-- Right Side: Bedrooms 2 & 3 -->
+      <line x1="470" y1="230" x2="650" y2="230" stroke="#1A1A1A" stroke-width="2"/>
+
+      <!-- Room Labels and furniture guides -->
+      <!-- Master Bedroom (Top Left) -->
+      <text x="140" y="120" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#1A1A1A" text-anchor="middle" letter-spacing="1">MASTER BEDROOM</text>
+      <text x="140" y="135" font-family="'Inter', sans-serif" font-size="9" fill="#9C8974" text-anchor="middle">5.8m x 4.6m</text>
+      <!-- Bed representation -->
+      <rect x="100" y="150" width="80" height="70" fill="none" stroke="#D2CFC9" stroke-width="1"/>
+      <rect x="110" y="150" width="25" height="15" fill="none" stroke="#D2CFC9" stroke-width="1"/>
+      <rect x="145" y="150" width="25" height="15" fill="none" stroke="#D2CFC9" stroke-width="1"/>
+
+      <!-- En-Suite & Dressing (Bottom Left) -->
+      <text x="140" y="300" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#1A1A1A" text-anchor="middle" letter-spacing="1">EN-SUITE BATH &amp; DRESSING</text>
+      <text x="140" y="315" font-family="'Inter', sans-serif" font-size="9" fill="#9C8974" text-anchor="middle">5.8m x 3.6m</text>
+      <!-- Bathtub representation -->
+      <rect x="90" y="340" width="100" height="40" rx="20" fill="none" stroke="#C2BFB9" stroke-width="1"/>
+      <circle cx="105" cy="360" r="3" fill="none" stroke="#C2BFB9"/>
+
+      <!-- Living / Dining Area (Center Bottom) -->
+      <text x="350" y="300" font-family="'Inter', sans-serif" font-size="12" font-weight="600" fill="#1A1A1A" text-anchor="middle" letter-spacing="1">LIVING &amp; DINING ROOM</text>
+      <text x="350" y="315" font-family="'Inter', sans-serif" font-size="9" fill="#9C8974" text-anchor="middle">6.0m x 5.5m</text>
+      <!-- Sofa Representation -->
+      <path d="M 280 340 L 420 340 L 420 380 L 400 380 L 400 360 L 300 360 L 300 380 L 280 380 Z" fill="none" stroke="#D2CFC9" stroke-width="1"/>
+
+      <!-- Kitchen (Center Top) -->
+      <text x="350" y="100" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#1A1A1A" text-anchor="middle" letter-spacing="1">SHOW KITCHEN</text>
+      <text x="350" y="115" font-family="'Inter', sans-serif" font-size="9" fill="#9C8974" text-anchor="middle">6.0m x 3.8m</text>
+      <!-- Kitchen Island -->
+      <rect x="290" y="140" width="120" height="35" fill="none" stroke="#D2CFC9" stroke-width="1"/>
+      <circle cx="330" cy="157" r="4" fill="none" stroke="#D2CFC9"/>
+      <circle cx="370" cy="157" r="4" fill="none" stroke="#D2CFC9"/>
+
+      <!-- Bedroom 2 (Top Right) -->
+      <text x="560" y="100" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#1A1A1A" text-anchor="middle" letter-spacing="1">BEDROOM 2</text>
+      <text x="560" y="115" font-family="'Inter', sans-serif" font-size="9" fill="#9C8974" text-anchor="middle">4.2m x 3.8m</text>
+      <!-- Bed representation -->
+      <rect x="525" y="140" width="70" height="60" fill="none" stroke="#D2CFC9" stroke-width="1"/>
+
+      <!-- Bedroom 3 (Bottom Right) -->
+      <text x="560" y="290" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#1A1A1A" text-anchor="middle" letter-spacing="1">BEDROOM 3</text>
+      <text x="560" y="305" font-family="'Inter', sans-serif" font-size="9" fill="#9C8974" text-anchor="middle">4.2m x 4.0m</text>
+      <!-- Bed representation -->
+      <rect x="525" y="330" width="70" height="60" fill="none" stroke="#D2CFC9" stroke-width="1"/>
+
+      <!-- Balcony/Terrace Access (Bottom Edge Outside Main Wall) -->
+      <rect x="150" y="420" width="400" height="40" fill="#EDEAE6" stroke="#1A1A1A" stroke-width="2"/>
+      <text x="350" y="445" font-family="'Inter', sans-serif" font-size="9" font-weight="600" fill="#1A1A1A" text-anchor="middle" letter-spacing="1.5">OUTDOOR SUN TERRACE</text>
+      
+      <!-- Door Swings -->
+      <!-- Master Bedroom Door -->
+      <path d="M 230 190 A 30 30 0 0 1 200 220 L 230 220 Z" fill="none" stroke="#8A857D" stroke-width="1"/>
+      <!-- Bed 2 Door -->
+      <path d="M 470 190 A 30 30 0 0 0 500 220 L 470 220 Z" fill="none" stroke="#8A857D" stroke-width="1"/>
+      <!-- Bed 3 Door -->
+      <path d="M 470 250 A 30 30 0 0 1 500 280 L 470 280 Z" fill="none" stroke="#8A857D" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

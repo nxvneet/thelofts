@@ -121,7 +121,7 @@ export function AboutProjectSection() {
                     >
                         <img 
                             ref={innerImageRef}
-                            src="https://ariaholding.com/thelofts/wp-content/uploads/2025/08/NORTH-WEST-VIEW-scaled.jpg" 
+                            src="/facade_large_1773236723300.png" 
                             alt="The Pearl" 
                             className="w-full h-full object-cover origin-center scale-[1.3] brightness-95" 
                         />

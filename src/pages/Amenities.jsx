@@ -12,9 +12,9 @@ export function Amenities() {
 
                 <div className="flex flex-col gap-20">
                     {[
-                        { tag: "Concierge & Valet", title: "Five-Star Service", desc: "A discreet, dedicated team ready to anticipate your every need 24/7.", img: "https://ariaholding.com/thelofts/wp-content/uploads/2025/08/GARDEN-VIEW-1-scaled.jpg" },
-                        { tag: "Wellness Center", title: "Holistic Health", desc: "State-of-the-art Technogym equipment, yoga studio, and private spa therapy rooms.", img: "https://ariaholding.com/thelofts/wp-content/uploads/2025/05/4.webp" },
-                        { tag: "Lounge", title: "The Residents' Club", desc: "Exclusive gathering spaces designed for business and pleasure, featuring a private bar and cinema.", img: "https://ariaholding.com/thelofts/wp-content/uploads/2025/08/SOUTH-SIDE-VIEW-scaled.jpg" },
+                        { tag: "Concierge & Valet", title: "Five-Star Service", desc: "A discreet, dedicated team ready to anticipate your every need 24/7.", img: "/concierge_lobby_1773123823125.png" },
+                        { tag: "Wellness Center", title: "Holistic Health", desc: "State-of-the-art Technogym equipment, yoga studio, and private spa therapy rooms.", img: "/gym_wellness_1773123838208.png" },
+                        { tag: "Lounge", title: "The Residents' Club", desc: "Exclusive gathering spaces designed for business and pleasure, featuring a private bar and cinema.", img: "/hero_lounge_1773236705621.png" },
                     ].map((item, i) => (
                         <AnimatedSection key={i} delay={i * 0.1} className={`flex flex-col lg:flex-row gap-10 lg:gap-20 items-center ${i % 2 === 1 ? 'lg:flex-row-reverse' : ''}`}>
                             <div className="w-full lg:w-1/2 h-[400px] lg:h-[600px] overflow-hidden rounded-[10px]">

@@ -72,7 +72,7 @@ export function InvestorRelations() {
             <section className="relative w-full h-[60vh] md:h-[70vh] overflow-hidden flex items-center justify-center pt-[80px]">
                 <div className="absolute inset-0 z-0">
                     <img 
-                        src="https://ariaholding.com/thelofts/wp-content/uploads/2025/08/NORTH-WEST-VIEW-scaled.jpg" 
+                        src="/facade_large_1773236723300.png" 
                         alt="Investor Relations" 
                         className="w-full h-full object-cover"
                     />
@@ -95,7 +95,7 @@ export function InvestorRelations() {
                 <AnimatedSection className="mb-32">
                     <div className="w-full aspect-[21/9] overflow-hidden group rounded-[4px]">
                         <img 
-                            src="https://ariaholding.com/thelofts/wp-content/uploads/2025/08/SOUTH-SIDE-VIEW-scaled.jpg" 
+                            src="/journey_exterior_1773123885314.png" 
                             alt="The Lofts Architecture" 
                             className="w-full h-full object-cover transition-transform duration-[2s] group-hover:scale-105"
                         />
@@ -162,7 +162,7 @@ export function InvestorRelations() {
                 {/* 6. NEED MORE DETAILS CTA */}
                 <AnimatedSection className="py-24 bg-[var(--color-background-light)] px-5 text-center relative overflow-hidden rounded-[8px] border border-[var(--color-border-color)]">
                     <div className="absolute inset-0 z-0 opacity-10">
-                        <img src="https://ariaholding.com/thelofts/wp-content/uploads/2025/08/VIEW-4-scaled.webp" className="w-full h-full object-cover" />
+                        <img src="/hero_view_1773123775976.png" className="w-full h-full object-cover" />
                     </div>
                     <div className="relative z-10 flex flex-col items-center">
                         <h2 className="text-3xl md:text-5xl font-heading mb-8">Need more details?</h2>

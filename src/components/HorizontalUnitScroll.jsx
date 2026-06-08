@@ -12,28 +12,28 @@ const units = [
         title: "3 Bedroom Loft Luxury Residences",
         size: "403 - 423 SQM",
         desc: "The pinnacle of coastal living. Expansive double-height ceilings, panoramic sea views, and absolute privacy.",
-        image: "https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-lofts-1.jpg",
+        image: "/unit_3bed_loft_1773238111737.png",
         features: ["Private Terrace", "Maid's Room", "Panoramic Sea View"]
     },
     {
         title: "2 Bedroom Loft Luxury Residences",
         size: "207 - 228 SQM",
         desc: "Chic contemporary design marrying warm tones with marble accents, creating a seamless and expansive aesthetic.",
-        image: "https://ariaholding.com/thelofts/wp-content/uploads/2025/08/21-BHK-residences-7.jpg",
+        image: "/unit_2bed_loft_lux_1773238128147.png",
         features: ["Corner Layouts", "Designer Kitchen", "En-suite Bathrooms"]
     },
     {
         title: "2 Bedroom Loft Residences",
         size: "195 - 208 SQM",
         desc: "Bright natural light floods this open plan sanctuary, designed for sophisticated modern living and entertaining.",
-        image: "https://ariaholding.com/thelofts/wp-content/uploads/2025/08/21-BHK-residences-1.jpg",
+        image: "/unit_2bed_loft_1773238147265.png",
         features: ["Open Plan", "Balcony", "Built-in Wardrobes"]
     },
     {
         title: "1 Bedroom Residences",
         size: "110 - 130 SQM",
         desc: "Elegant and cozy. Featuring high-end finishes, wooden flooring, and a highly efficient architectural layout.",
-        image: "https://ariaholding.com/thelofts/wp-content/uploads/2025/07/5_1.jpg",
+        image: "/unit_1bed_1773238177449.png",
         features: ["Premium Finishes", "Smart Layout", "City/Marina Views"]
     },
     {

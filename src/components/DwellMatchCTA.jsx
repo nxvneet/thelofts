@@ -36,10 +36,10 @@ export function DwellMatchCTA() {
     }, []);
 
     const images = [
-        "https://ariaholding.com/thelofts/wp-content/uploads/2025/08/NORTH-WEST-VIEW-scaled.jpg",
-        "https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-lofts-1.jpg",
-        "https://ariaholding.com/thelofts/wp-content/uploads/2025/08/21-BHK-residences-7.jpg",
-        "https://ariaholding.com/thelofts/wp-content/uploads/2025/05/VIEW-4-scaled.webp"
+        "/journey_exterior_1773123885314.png",
+        "/unit_3bed_loft_1773238111737.png",
+        "/unit_2bed_loft_lux_1773238128147.png",
+        "/hero_view_1773123775976.png"
     ];
 
     return (

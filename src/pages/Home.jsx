@@ -47,7 +47,7 @@ export function Home() {
                 <div className="absolute inset-0 z-0">
                     <img
                         ref={heroImgRef}
-                        src="https://ariaholding.com/thelofts/wp-content/uploads/2025/08/SOUTH-WEST-VIEW-scaled.jpg"
+                        src="/hero_view_1773123775976.png"
                         alt="The Lofts Luxury View"
                         className="w-full h-[115%] object-cover absolute top-[-5%]"
                     />

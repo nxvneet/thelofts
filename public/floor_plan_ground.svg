@@ -1,0 +1,99 @@
+<svg viewBox="0 0 800 600" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <!-- Warm background to match the project's quiet luxury aesthetic -->
+  <rect width="100%" height="100%" fill="#FAF9F6"/>
+  
+  <g transform="translate(40, 40)">
+    <!-- Title and details -->
+    <text x="0" y="30" font-family="'Inter', sans-serif" font-size="20" font-weight="600" fill="#1A1A1A" letter-spacing="2">GROUND FLOOR PLAN</text>
+    <text x="0" y="50" font-family="'Inter', sans-serif" font-size="10" font-weight="500" fill="#9C8974" letter-spacing="1.5">THE LOFTS · LA PLAGE SOUTH</text>
+    
+    <!-- Scale Bar -->
+    <g transform="translate(580, 25)">
+      <line x1="0" y1="10" x2="100" y2="10" stroke="#9C8974" stroke-width="1.5"/>
+      <line x1="0" y1="5" x2="0" y2="15" stroke="#9C8974" stroke-width="1.5"/>
+      <line x1="50" y1="5" x2="50" y2="15" stroke="#9C8974" stroke-width="1.5"/>
+      <line x1="100" y1="5" x2="100" y2="15" stroke="#9C8974" stroke-width="1.5"/>
+      <text x="0" y="-2" font-family="'Inter', sans-serif" font-size="8" fill="#666" text-anchor="middle">0</text>
+      <text x="50" y="-2" font-family="'Inter', sans-serif" font-size="8" fill="#666" text-anchor="middle">5m</text>
+      <text x="100" y="-2" font-family="'Inter', sans-serif" font-size="8" fill="#666" text-anchor="middle">10m</text>
+    </g>
+
+    <!-- Compass Rose -->
+    <g transform="translate(700, 30)">
+      <circle cx="0" cy="0" r="15" fill="none" stroke="#E3E0DC" stroke-width="1"/>
+      <line x1="0" y1="-20" x2="0" y2="20" stroke="#9C8974" stroke-width="1.5"/>
+      <line x1="-20" y1="0" x2="20" y2="0" stroke="#E3E0DC" stroke-width="1"/>
+      <polygon points="0,-20 -4,-5 0,-8" fill="#9C8974"/>
+      <polygon points="0,-20 4,-5 0,-8" fill="#B5A695"/>
+      <text x="0" y="-24" font-family="'Inter', sans-serif" font-size="8" font-weight="700" fill="#9C8974" text-anchor="middle">N</text>
+    </g>
+
+    <!-- Outer Building Boundaries -->
+    <rect x="50" y="100" width="620" height="360" rx="8" fill="none" stroke="#E3E0DC" stroke-width="2" stroke-dasharray="4 4"/>
+    
+    <!-- Central Lobby & Elevators Core -->
+    <rect x="260" y="180" width="200" height="200" rx="4" fill="#EAE8E4" stroke="#8A857D" stroke-width="1.5"/>
+    <text x="360" y="275" font-family="'Inter', sans-serif" font-size="12" font-weight="600" fill="#1A1A1A" text-anchor="middle" letter-spacing="1">MAIN LOBBY &amp; ATRIUM</text>
+    
+    <!-- Elevator Blocks -->
+    <rect x="310" y="295" width="40" height="40" fill="none" stroke="#8A857D" stroke-width="1"/>
+    <path d="M320,315 L330,305 L340,315" fill="none" stroke="#8A857D" stroke-width="1.5"/>
+    <rect x="370" y="295" width="40" height="40" fill="none" stroke="#8A857D" stroke-width="1"/>
+    <path d="M380,315 L390,305 L400,315" fill="none" stroke="#8A857D" stroke-width="1.5"/>
+    <text x="360" y="350" font-family="'Inter', sans-serif" font-size="8" fill="#666" text-anchor="middle" letter-spacing="0.5">ELEVATORS</text>
+
+    <!-- Concierge Desk -->
+    <path d="M 330 195 L 390 195 A 30 30 0 0 1 390 225 L 330 225 Z" fill="#D2CFC9" stroke="#8A857D" stroke-width="1"/>
+    <text x="360" y="213" font-family="'Inter', sans-serif" font-size="8" font-weight="600" fill="#555" text-anchor="middle">CONCIERGE</text>
+
+    <!-- Left Wing (Residences / Lounges) -->
+    <g>
+      <!-- Unit 3BHK-G1 -->
+      <rect x="60" y="110" width="190" height="170" rx="4" fill="#F4F2EE" stroke="#A8A49E" stroke-width="1.5"/>
+      <text x="155" y="190" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#1A1A1A" text-anchor="middle">RESIDENCE 3BHK-G1</text>
+      <text x="155" y="205" font-family="'Inter', sans-serif" font-size="9" fill="#9C8974" text-anchor="middle">LAYOUT B · 423 SQM.</text>
+      <!-- Private Garden -->
+      <rect x="60" y="80" width="190" height="30" fill="#E8EBE6" stroke="#9EAD9A" stroke-width="1" stroke-dasharray="2 2"/>
+      <text x="155" y="98" font-family="'Inter', sans-serif" font-size="8" fill="#6E856A" text-anchor="middle">PRIVATE GARDEN &amp; PATIO</text>
+
+      <!-- Unit 3BHK-G2 -->
+      <rect x="60" y="290" width="190" height="160" rx="4" fill="#F4F2EE" stroke="#A8A49E" stroke-width="1.5"/>
+      <text x="155" y="365" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#1A1A1A" text-anchor="middle">RESIDENCE 3BHK-G2</text>
+      <text x="155" y="380" font-family="'Inter', sans-serif" font-size="9" fill="#9C8974" text-anchor="middle">LAYOUT A · 403 SQM.</text>
+      <!-- Private Deck -->
+      <rect x="60" y="450" width="190" height="20" fill="#EDEAE6" stroke="#C8C4BE" stroke-width="1" stroke-dasharray="2 2"/>
+      <text x="155" y="463" font-family="'Inter', sans-serif" font-size="8" fill="#8C8880" text-anchor="middle">PRIVATE DECK</text>
+    </g>
+
+    <!-- Right Wing (Residences / Amenities) -->
+    <g>
+      <!-- Resident Lounge / Club -->
+      <rect x="470" y="110" width="190" height="150" rx="4" fill="#FAF7F2" stroke="#B8AFA0" stroke-width="1.5"/>
+      <text x="565" y="180" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#9C8974" text-anchor="middle" letter-spacing="1">RESIDENTS' LOUNGE</text>
+      <text x="565" y="195" font-family="'Inter', sans-serif" font-size="8" fill="#666" text-anchor="middle">EXHIBITIONS &amp; EVENTS</text>
+      
+      <!-- Pool Access Path -->
+      <path d="M 660 170 L 720 170 L 720 300 M 660 210 L 680 210 L 680 300" fill="none" stroke="#E3E0DC" stroke-width="1.5" stroke-dasharray="3 3"/>
+      
+      <!-- Unit 2BHK-G1 -->
+      <rect x="470" y="270" width="190" height="180" rx="4" fill="#F4F2EE" stroke="#A8A49E" stroke-width="1.5"/>
+      <text x="565" y="355" font-family="'Inter', sans-serif" font-size="11" font-weight="600" fill="#1A1A1A" text-anchor="middle">RESIDENCE 2BHK-G1</text>
+      <text x="565" y="370" font-family="'Inter', sans-serif" font-size="9" fill="#9C8974" text-anchor="middle">LAYOUT G · 185 SQM.</text>
+      <!-- Private Yard -->
+      <rect x="470" y="450" width="190" height="20" fill="#E8EBE6" stroke="#9EAD9A" stroke-width="1" stroke-dasharray="2 2"/>
+      <text x="565" y="463" font-family="'Inter', sans-serif" font-size="8" fill="#6E856A" text-anchor="middle">PRIVATE YARD</text>
+    </g>
+
+    <!-- Corridors connecting wings -->
+    <rect x="250" y="200" width="10" height="60" fill="#EAE8E4"/>
+    <rect x="460" y="200" width="10" height="60" fill="#EAE8E4"/>
+    <rect x="250" y="300" width="10" height="60" fill="#EAE8E4"/>
+    <rect x="460" y="300" width="10" height="60" fill="#EAE8E4"/>
+
+    <!-- Entry / Exit indicators -->
+    <g transform="translate(360, 150)">
+      <path d="M 0 -15 L 0 15 M -7 5 L 0 15 L 7 5" fill="none" stroke="#ff5c35" stroke-width="2"/>
+      <text x="0" y="-20" font-family="'Inter', sans-serif" font-size="9" font-weight="700" fill="#ff5c35" text-anchor="middle" letter-spacing="1">MAIN ENTRY</text>
+    </g>
+  </g>
+</svg>

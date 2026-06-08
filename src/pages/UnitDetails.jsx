@@ -17,20 +17,20 @@ export function UnitDetails() {
             titlePart1: '3 bedroom Loft',
             titlePart2: 'Luxury residences',
             breadcrumb: '3 bedroom Loft Luxury residences',
-            heroImage: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-lofts-1.jpg',
-            visualSymphonyImage: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-Lofts-WT-11.jpg',
+            heroImage: '/unit_3bed_loft_1773238111737.png',
+            visualSymphonyImage: '/hero_lounge_1773236705621.png',
             residenceFloors: ['Ground Floor', 'Second Floor', 'Fourth Floor'],
             residenceLayouts: {
                 'Ground Floor': [
-                    { title: 'Layout B', units: '1', amenity: 'Pool', totalArea: '423 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-TYPE-B-GROUND-FLOOR-1.jpg' },
-                    { title: 'Layout A', units: '2', amenity: 'Lounge', totalArea: '403 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-TYPE-A-GROUND-FLOOR-2.jpg' }
+                    { title: 'Layout B', units: '1', amenity: 'Pool', totalArea: '423 SQM.', image: '/layout_plan_3bhk.svg' },
+                    { title: 'Layout A', units: '2', amenity: 'Lounge', totalArea: '403 SQM.', image: '/layout_plan_3bhk.svg' }
                 ],
                 'Second Floor': [
-                    { title: 'Layout A', units: '2', amenity: 'Gym', totalArea: '403 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-TYPE-A-FIRST-FLOOR-2.jpg' },
-                    { title: 'Layout C', units: '1', amenity: 'Garden', totalArea: '216 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-TYPE-B-FIRST-FLOOR-2.jpg' }
+                    { title: 'Layout A', units: '2', amenity: 'Gym', totalArea: '403 SQM.', image: '/layout_plan_3bhk.svg' },
+                    { title: 'Layout C', units: '1', amenity: 'Garden', totalArea: '216 SQM.', image: '/layout_plan_3bhk.svg' }
                 ],
                 'Fourth Floor': [
-                    { title: 'Layout D', units: '1', amenity: 'Terrace', totalArea: '223 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-TYPE-D-UPDATED-FURNITURE-LAYOUT-1.jpg' }
+                    { title: 'Layout D', units: '1', amenity: 'Terrace', totalArea: '223 SQM.', image: '/layout_plan_3bhk.svg' }
                 ]
             }
         },
@@ -38,19 +38,19 @@ export function UnitDetails() {
             titlePart1: '2 bedroom Loft',
             titlePart2: 'Luxury residences',
             breadcrumb: '2 bedroom Loft Luxury residences',
-            heroImage: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/21-BHK-residences-7.jpg',
-            visualSymphonyImage: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-Lofts-WT-9.jpg',
+            heroImage: '/unit_2bed_loft_lux_1773238128147.png',
+            visualSymphonyImage: '/kitchen_view_1773123804891.png',
             residenceFloors: ['First Floor', 'Third Floor', 'Fifth Floor'],
             residenceLayouts: {
                 'First Floor': [
-                    { title: 'Layout A', units: '2', amenity: 'Pool', totalArea: '310 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/2-BHK-LOFT-TYPE-A.jpg' },
-                    { title: 'Layout B', units: '1', amenity: 'Lounge', totalArea: '325 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/2-BHK-LOFT-TYPE-B.jpg' }
+                    { title: 'Layout A', units: '2', amenity: 'Pool', totalArea: '310 SQM.', image: '/layout_plan_2bhk.svg' },
+                    { title: 'Layout B', units: '1', amenity: 'Lounge', totalArea: '325 SQM.', image: '/layout_plan_2bhk.svg' }
                 ],
                 'Third Floor': [
-                    { title: 'Layout C', units: '1', amenity: 'Deck', totalArea: '305 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/2-BHK-LOFT-TYPE-C.jpg' }
+                    { title: 'Layout C', units: '1', amenity: 'Deck', totalArea: '305 SQM.', image: '/layout_plan_2bhk.svg' }
                 ],
                 'Fifth Floor': [
-                    { title: 'Layout E', units: '2', amenity: 'Terrace', totalArea: '340 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/2-BHK-LOFT-TYPE-E.jpg' }
+                    { title: 'Layout E', units: '2', amenity: 'Terrace', totalArea: '340 SQM.', image: '/layout_plan_2bhk.svg' }
                 ]
             }
         },
@@ -58,18 +58,18 @@ export function UnitDetails() {
             titlePart1: '2 bedroom',
             titlePart2: 'Luxury residences',
             breadcrumb: '2 bedroom Luxury residences',
-            heroImage: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/05/3.webp',
-            visualSymphonyImage: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-Lofts-WT-8.jpg',
+            heroImage: '/unit_2bed_loft_1773238147265.png',
+            visualSymphonyImage: '/journey_room_1773123865446.png',
             residenceFloors: ['Ground Floor', 'First Floor', 'Second Floor'],
             residenceLayouts: {
                 'Ground Floor': [
-                    { title: 'Layout G', units: '3', amenity: 'Garden', totalArea: '185 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/2-BHK-TYPE-G.jpg' }
+                    { title: 'Layout G', units: '3', amenity: 'Garden', totalArea: '185 SQM.', image: '/layout_plan_2bhk.svg' }
                 ],
                 'First Floor': [
-                    { title: 'Layout A', units: '4', amenity: 'Pool View', totalArea: '190 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/2-BHK-TYPE-G.jpg' }
+                    { title: 'Layout A', units: '4', amenity: 'Pool View', totalArea: '190 SQM.', image: '/layout_plan_2bhk.svg' }
                 ],
                 'Second Floor': [
-                    { title: 'Layout B', units: '2', amenity: 'City View', totalArea: '195 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/2-BHK-TYPE-G.jpg' }
+                    { title: 'Layout B', units: '2', amenity: 'City View', totalArea: '195 SQM.', image: '/layout_plan_2bhk.svg' }
                 ]
             }
         },
@@ -77,18 +77,18 @@ export function UnitDetails() {
             titlePart1: '1 bedroom',
             titlePart2: 'Luxury residences',
             breadcrumb: '1 bedroom Luxury residences',
-            heroImage: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/07/5_1.jpg',
-            visualSymphonyImage: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-Lofts-WT-7.jpg',
+            heroImage: '/unit_1bed_1773238177449.png',
+            visualSymphonyImage: '/media__1773123489364.png',
             residenceFloors: ['Ground Floor', 'Second Floor', 'Fourth Floor'],
             residenceLayouts: {
                 'Ground Floor': [
-                    { title: 'Layout A', units: '2', amenity: 'Lounge', totalArea: '95 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/1-BHK-TYPE-A-2.jpg' }
+                    { title: 'Layout A', units: '2', amenity: 'Lounge', totalArea: '95 SQM.', image: '/layout_plan_1bhk.svg' }
                 ],
                 'Second Floor': [
-                    { title: 'Layout A', units: '4', amenity: 'Park View', totalArea: '95 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/1-BHK-TYPE-A-2.jpg' }
+                    { title: 'Layout A', units: '4', amenity: 'Park View', totalArea: '95 SQM.', image: '/layout_plan_1bhk.svg' }
                 ],
                 'Fourth Floor': [
-                    { title: 'Layout B', units: '3', amenity: 'Terrace', totalArea: '98 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/1-BHK-TYPE-A-2.jpg' }
+                    { title: 'Layout B', units: '3', amenity: 'Terrace', totalArea: '98 SQM.', image: '/layout_plan_1bhk.svg' }
                 ]
             }
         },
@@ -97,17 +97,17 @@ export function UnitDetails() {
             titlePart2: 'Apartments',
             breadcrumb: 'Luxury Studio Apartments',
             heroImage: '/studio_improved_1773830107563.png',
-            visualSymphonyImage: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/3BHK-Lofts-WT-6.jpg',
+            visualSymphonyImage: '/media__1773236565451.png',
             residenceFloors: ['First Floor', 'Third Floor', 'Fifth Floor'],
             residenceLayouts: {
                 'First Floor': [
-                    { title: 'Layout A', units: '4', amenity: 'Gym', totalArea: '65 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/STUDIO-TYPE-A-2.jpg' }
+                    { title: 'Layout A', units: '4', amenity: 'Gym', totalArea: '65 SQM.', image: '/layout_plan_studio.svg' }
                 ],
                 'Third Floor': [
-                    { title: 'Layout B', units: '5', amenity: 'Pool View', totalArea: '68 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/STUDIO-TYPE-A-2.jpg' }
+                    { title: 'Layout B', units: '5', amenity: 'Pool View', totalArea: '68 SQM.', image: '/layout_plan_studio.svg' }
                 ],
                 'Fifth Floor': [
-                    { title: 'Layout A', units: '3', amenity: 'Sky Deck', totalArea: '65 SQM.', image: 'https://ariaholding.com/thelofts/wp-content/uploads/2025/08/STUDIO-TYPE-A-2.jpg' }
+                    { title: 'Layout A', units: '3', amenity: 'Sky Deck', totalArea: '65 SQM.', image: '/layout_plan_studio.svg' }
                 ]
             }
         }
@@ -360,7 +360,7 @@ export function UnitDetails() {
                         <div className="w-full lg:w-[55%] relative flex justify-center items-center py-16 px-10 bg-[#FAFAFA] rounded-[48px] border border-black/[0.03] group min-h-[500px]">
                             
                             <img 
-                                src={`https://ariaholding.com/thelofts/wp-content/uploads/2025/08/${activeTab.toUpperCase().replace(' ', '-')}-scaled.jpg`} 
+                                src={activeTab === 'Ground Floor' ? '/floor_plan_ground.svg' : '/floor_plan_typical.svg'} 
                                 alt="Building floor plan overview" 
                                 className="w-full h-auto mix-blend-multiply transition-transform duration-700 max-h-[600px] object-contain group-hover:scale-[1.03]"
                             />

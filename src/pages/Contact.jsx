@@ -84,7 +84,7 @@ export function Contact() {
                         </div>
 
                         <div className="w-full h-[300px] overflow-hidden rounded-[8px]">
-                            <img src="https://ariaholding.com/thelofts/wp-content/uploads/2025/07/01-3.webp" alt="Office Space" className="w-full h-full object-cover" />
+                            <img src="/interior_detail_1773236742067.png" alt="Office Space" className="w-full h-full object-cover" />
                         </div>
                     </AnimatedSection>
                 </div>

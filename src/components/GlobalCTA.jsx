@@ -18,7 +18,7 @@ export function GlobalCTA() {
                     {/* Card Image Background */}
                     <div className="absolute inset-0 z-0">
                         <img 
-                            src="https://ariaholding.com/thelofts/wp-content/uploads/2025/08/SOUTH-WEST-VIEW-scaled.jpg" 
+                            src="/hero_view_1773123775976.png" 
                             alt="Find your dream home today" 
                             className="w-full h-full object-cover" 
                         />
